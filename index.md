@@ -1,105 +1,25 @@
-<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
-<h1 style="color: #5e9ca0;">You can edit <span style="color: #2b2301;">this demo</span> text!</h1>
-<h2 style="color: #2e6c80;">How to use the editor:</h2>
-<p>Paste your documents in the visual editor on the left or your HTML code in the source editor in the right. <br />Edit any of the two areas and see the other changing in real time.&nbsp;</p>
-<p>Click the <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Clean</span> button to clean your source code.</p>
-<h2 style="color: #2e6c80;">Some useful features:</h2>
-<ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Interactive source editor</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" /> HTML Cleaning</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/03-docs-to-html.png" alt="Word to html" width="45" /> Word to HTML conversion</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/04-replace.png" alt="replace text" width="45" /> Find and Replace</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/05-gibberish.png" alt="gibberish" width="45" /> Lorem-Ipsum generator</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="45" /> Table to DIV conversion</li>
-</ol>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<h2 style="color: #2e6c80;">Cleaning options:</h2>
-<table class="editorDemoTable">
-<thead>
-<tr>
-<td>Name of the feature</td>
-<td>Example</td>
-<td>Default</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Remove tag attributes</td>
-<td><img style="margin: 1px 15px;" src="images/smiley.png" alt="laughing" width="40" height="16" /> (except <strong>img</strong>-<em>src</em> and <strong>a</strong>-<em>href</em>)</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove inline styles</td>
-<td><span style="color: green; font-size: 13px;">You <strong style="color: blue; text-decoration: underline;">should never</strong>&nbsp;use inline styles!</span></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove classes and IDs</td>
-<td><span id="demoId">Use classes to <strong class="demoClass">style everything</strong>.</span></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove all tags</td>
-<td>This leaves <strong style="color: blue;">only the plain</strong> <em>text</em>. <img style="margin: 1px;" src="images/smiley.png" alt="laughing" width="16" height="16" /></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove successive &amp;nbsp;s</td>
-<td>Never use non-breaking spaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to set margins.</td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove empty tags</td>
-<td>Empty tags should go!</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove tags with one &amp;nbsp;</td>
-<td>This makes&nbsp;no sense!</td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove span tags</td>
-<td>Span tags with <span style="color: green; font-size: 13px;">all styles</span></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Remove images</td>
-<td>I am an image: <img src="images/smiley.png" alt="laughing" /></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove links</td>
-<td><a href="https://html-online.com">This is</a> a link.</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove tables</td>
-<td>Takes everything out of the table.</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Replace table tags with structured divs</td>
-<td>This text is inside a table.</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Remove comments</td>
-<td>This is only visible in the source editor <!-- HELLO! --></td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Encode special characters</td>
-<td><span style="color: red; font-size: 17px;">&hearts;</span> <strong style="font-size: 20px;">☺ ★</strong> &gt;&lt;</td>
-<td><strong style="font-size: 17px; color: #2b2301;">x</strong></td>
-</tr>
-<tr>
-<td>Set new lines and text indents</td>
-<td>Organize the tags in a nice tree view.</td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;</strong></p>
-<p><strong>Save this link into your bookmarks and share it with your friends. It is all FREE! </strong><br /><strong>Enjoy!</strong></p>
-<p><strong>&nbsp;</strong></p>
+<h1 style="text-align: center;"><strong>8 Essential Oils for Muscle and Tendon Pain Relief</strong></h1>
+<p style="text-align: center;"><strong><img src="https://drlucasmd.com/wp-content/uploads/2019/03/Essential-Oils-780x400.jpg" alt="8 Essential Oils for Muscle and Tendon Pain Relief" /></strong></p>
+<p style="text-align: center;"><span>The great news that there is! Many essential oils provide excellent muscle and tendon pain relief.</span></p>
+<p style="text-align: center;"><span>Irrespective of the how or when your injury occurred, it leaves you in an anything but ideal reality: unrelenting, irritating, and downright selfish pain.</span></p>
+<p style="text-align: center;"><span>Your reaction probably goes like this:</span></p>
+<ul style="text-align: center;">
+<li style="text-align: left;"><span>curse your pain</span></li>
+<li style="text-align: left;"><span>avoid things that hurt</span></li>
+<li style="text-align: left;"><span>try ice and heat</span></li>
+<li style="text-align: left;"><span>pop pain pills.</span></li>
+</ul>
+<p style="text-align: center;"><span>Unfortunately, these treatments are often ineffective, barely making a dent in the source of your pain, and their ineffectiveness further compounds your irritation.</span></p>
+<p style="text-align: center;"><span>Often your health care provider is just as frustrated as you are, since they recognize that are unable to give you an effective solution.</span></p>
+<p style="text-align: center;"><span>While it&rsquo;s easily recognized, pain is actually a very complex process that involves emotion, genetics, biology, physiology and anatomy.</span></p>
+<p style="text-align: center;"><span>This complexity often makes a straightforward solution elusive.</span></p>
+<p style="text-align: center;"><span>But maybe there is a more ancient and natural remedy that could be more effective and safe.&nbsp;</span></p>
+<p style="text-align: center;"><span>The fantastic news is that potentially there is: the venerable essential oil! There are 8 that are &mdash; well, essential &mdash; for muscle and tendon pain relief along with some of amazing blends.</span></p>
+<h2 style="text-align: center;"><strong>Essential oils an ancient pain reliever</strong></h2>
+<p style="text-align: center;"><span>Ancient healers used essential oils for thousands of years&nbsp; to promote health and treat a diverse variety of conditions .</span></p>
+<p style="text-align: center;"><span>In fact, the ancient Chinese wrote an entire medical textbook called the &ldquo;Inner Canon of the Yellow Emperor&rdquo; over 2500 year ago that highlighted the critical role essential oils played in treating illness.</span></p>
+<p style="text-align: center;"><span>Additionally, both the old and new testament emphasize the therapeutic benefit of essential oils. Remember the story of the three wise men?</span></p>
+<p style="text-align: center;"><span><img class="aligncenter wp-image-5920" src="https://drlucasmd.com/wp-content/uploads/2019/03/Ancient-Medical-Scroll-with-essential-Oils.jpg" alt="Essential oils an ancient pain reliever" width="500" height="334" srcset="https://drlucasmd.com/wp-content/uploads/2019/03/Ancient-Medical-Scroll-with-essential-Oils.jpg 1000w, https://drlucasmd.com/wp-content/uploads/2019/03/Ancient-Medical-Scroll-with-essential-Oils-300x200.jpg 300w, https://drlucasmd.com/wp-content/uploads/2019/03/Ancient-Medical-Scroll-with-essential-Oils-768x513.jpg 768w" sizes="(max-width: 500px) 100vw, 500px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="https://drlucasmd.com/8-essential-oils-you-need-to-be-using-for-muscle-and-tendon-pain/" data-jpibfi-post-title="8 Essential Oils for Muscle and Tendon Pain Relief" data-jpibfi-src="https://drlucasmd.com/wp-content/uploads/2019/03/Ancient-Medical-Scroll-with-essential-Oils.jpg" data-jpibfi-indexer="1" /></span></p>
+<p style="text-align: center;"><span>Surprisingly, modern medical traditions that originated in Europe were slow to embrace the use of essential oils to treat medical maladies.</span></p>
+<p style="text-align: center;"><span>Shockingly, some purists shunned essential oils to such an extent as to brand them a pseudo &ldquo;snake oil.&rdquo;</span></p>
+<p style="text-align: center;"></p>
